@@ -24,7 +24,7 @@ public class ToyData {
 
     public static Parcel[] getParcels() {
         Parcel[] parcels = new Parcel[10];
-        // your code
+        System.out.println("Toeey");
 
         return parcels;
     }
